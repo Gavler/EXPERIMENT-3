@@ -125,6 +125,11 @@ indexing operations:
 > ![image](https://github.com/user-attachments/assets/1cf9b220-3f3b-456b-a6cf-148ef4f62734)
 
 
+# Change log
+- 0.1 added EXP3 file.
+- 0.2 edited README file.
+- 0.3 revised Pandas-P2 file.
+
 
   
 
